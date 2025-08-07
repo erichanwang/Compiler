@@ -1,0 +1,4 @@
+let my_message = "Hello from a variable!"
+print my_message
+let my_number = 123
+print my_number
