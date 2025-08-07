@@ -1,0 +1,13 @@
+x = 5
+prt "x is 5"
+
+if (x == 10) {
+    prt "x is 10"
+} else if (x == 5) {
+    prt "x is 5"
+} else {
+    prt "x is something else"
+}
+
+y = "test"
+prt y

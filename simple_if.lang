@@ -1,0 +1,6 @@
+x = 5
+if (x == 10) {
+    prt "is 10"
+} else {
+    prt "is not 10"
+}

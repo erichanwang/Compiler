@@ -1,4 +1,4 @@
-print "What is your name?"
+prt "What is your name?"
 input user_name
-print "Hello, "
-print user_name
+prt "Hello, "
+prt user_name
